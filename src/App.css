@@ -1,14 +1,1 @@
-:root {
-  --primary: #77F195;
-  --secondary: rgb(73, 227, 233);
-  --white: #F3F3F3;
-  --dark: #232528;
-  --extra: #FDFC78;
-}
 
-body {
-  font-family: 'M PLUS 1 Code', sans-serif !important;
-  font-weight: bold;
-  color: var(--dark);
-  background: var(--white) !important;
-}
